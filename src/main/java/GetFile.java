@@ -2,8 +2,7 @@ import java.io.*;
 import java.nio.file.Files;
 
 public class GetFile {
-
-
+    
     public static void main(String[] args) {
         String source = "D:\\学习资料\\极客时间\\31-深入浅出计算机组成原理（完结）\\06-加餐 (1讲)";
         String dest = "D:\\dest";
