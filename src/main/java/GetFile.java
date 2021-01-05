@@ -15,8 +15,8 @@ public class GetFile {
         File dirfile = new File(path);
 
         if (!dirfile.exists()) {
-            System.out.println("not found dir/file!.......");
-            System.out.println("hhh");
+            System.out.println("not found dir/file!!!!!");
+            System.out.println("test");
             return;
         }
 
