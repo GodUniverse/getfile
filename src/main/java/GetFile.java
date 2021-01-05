@@ -7,6 +7,7 @@ public class GetFile {
         String source = "D:\\学习资料\\极客时间\\31-深入浅出计算机组成原理（完结）\\06-加餐 (1讲)";
         String dest = "D:\\dest";
         find(source, dest);
+        String hhh = "hhh";
 
     }
 
